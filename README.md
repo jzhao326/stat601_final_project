@@ -1,2 +1,3 @@
 # stat601_final_project
-dealing with high-dimensional data
+Finished in December 2018, this's a project dealing with high-dimensional data. The project used three different methods to select variables and used GMC(generalized measure of correlation) to evaluate the model.
+Instructions and data are in the attachments.
